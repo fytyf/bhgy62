@@ -12,7 +12,7 @@ XXX.cloud.okteto.net/v2link/index.html
 
 Vless & Vmess: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fytyf/bhgy62) 
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
@@ -29,4 +29,3 @@ Vless & Vmess:
 > We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.
 
 请Fork一下仓库，然后在自己的仓库下点击。
-
